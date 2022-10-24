@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MVVM-Forest</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="main_nav_home">Home</string>
+    <string name="main_nav_repos">Repos</string>
+    <string name="main_nav_profile">Me</string>
+
+    <string name="login_tips">登录5EPlay</string>
+    <string name="login_hint_username">手机号/邮箱/用户名</string>
+    <string name="login_hint_password">密码</string>
+    <string name="login_sign_in">Sign in</string>
+
+    <string name="repos_filter_created">Sort by created</string>
+    <string name="repos_filter_letter">Sort by letter</string>
+    <string name="repos_filter_update">Sort by update</string>
+
+    <string name="common_loading_empty">it\'s empty here</string>
+    <string name="common_loading_error">network error</string>
+
+    <string name="search">Search</string>
+</resources>
